@@ -3,9 +3,11 @@
 A single-page portal that indexes **70 Coherent Market Insights research dashboards**
 across 4 market verticals, with tabs, instant search, and card/table views.
 
+**Live:** https://aurionpro.vercel.app
+
 ## The file
 
-[`Aurionpro-Dashboard-Portal.html`](Aurionpro-Dashboard-Portal.html) is fully
+[`index.html`](index.html) is fully
 self-contained — no build step, no dependencies, no server. Open it in any browser,
 or host it anywhere static.
 
